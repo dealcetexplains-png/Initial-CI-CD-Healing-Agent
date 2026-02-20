@@ -5,7 +5,7 @@ const AppContext = createContext(null)
 const API_BASE =
   import.meta.env.VITE_API_URL ||
   (import.meta.env.PROD
-    ? 'https://initial-ci-cd-healing-agent.onrender.com/api'
+    ? 'https://initial-ci-cd-healing-agent-3.onrender.com/api'
     : '/api')
 
 export function AppProvider({ children }) {
