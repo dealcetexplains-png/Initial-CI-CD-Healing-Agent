@@ -1,0 +1,21 @@
+# Frontend (not needed for API container)
+frontend/
+# Workspace clones (repos are cloned at runtime)
+backend/agent/workspace/
+agent/workspace/
+# Git and env
+.git
+.gitignore
+.env
+.env.*
+# IDE and OS
+.venv
+venv
+__pycache__
+*.pyc
+.cursor
+.vscode
+node_modules
+# Docs and misc
+*.md
+results.json

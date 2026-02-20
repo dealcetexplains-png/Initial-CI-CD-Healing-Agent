@@ -1,0 +1,14 @@
+# Backend API
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+python-dotenv>=1.0.0
+python-multipart>=0.0.6
+
+# Git + agent
+gitpython>=3.1.40
+openai>=1.12.0
+
+# Agent: Python linters/formatters (run via subprocess)
+flake8>=6.0.0
+pyflakes>=3.0.0
+autopep8>=2.0.0
