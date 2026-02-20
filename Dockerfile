@@ -18,8 +18,10 @@ COPY backend/ backend/
 COPY agent/ agent/
 COPY requirements.txt requirements.txt
 
-# Install Python dependencies
-RUN pip install --no-cache-dir -r requirements.txt
+# Install Python dependencies in a venv (avoids externally-managed-environment on Debian)
+RUN python3 -m venv /app/venv && \
+    /app/venv/bin/pip install --no-cache-dir -r requirements.txt
+ENV PATH="/app/venv/bin:$PATH"
 
 # Install global ESLint and Jest so JS/TS repos can be linted and tested
 RUN npm install -g eslint jest
@@ -33,4 +35,4 @@ ENV AGENT_WORKSPACE=/app/agent/workspace
 
 # Render sets PORT at runtime; default 8000 for local runs
 EXPOSE 8000
-CMD ["sh", "-c", "exec python -m uvicorn backend.main:app --host 0.0.0.0 --port ${PORT:-8000}"]
+CMD ["sh", "-c", "exec /app/venv/bin/python -m uvicorn backend.main:app --host 0.0.0.0 --port ${PORT:-8000}"]
