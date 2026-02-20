@@ -1,0 +1,602 @@
+[
+  {
+    "type": "LOGIC",
+    "message": "app.py:32:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:38:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:44:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:32:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:38:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:44:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:32:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:38:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:44:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:32:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:38:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:44:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:32:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:38:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:44:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:32:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:38:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:44:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:32:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:38:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:44:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:32:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:38:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:44:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:32:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:38:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:44:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:32:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:38:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:44:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:32:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:38:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:44:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:32:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:38:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:44:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:32:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:38:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:44:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:32:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:38:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:44:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:32:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:38:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:44:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:32:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:38:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:44:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:7:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:12:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:28:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:39:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:7:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:12:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:28:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:39:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:7:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:12:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:28:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:39:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:7:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:12:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:28:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:39:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LINTING",
+    "message": "app.py:7:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LINTING",
+    "message": "app.py:12:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LINTING",
+    "message": "app.py:28:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LINTING",
+    "message": "app.py:39:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LINTING",
+    "message": "app.py:7:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LINTING",
+    "message": "app.py:12:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LINTING",
+    "message": "app.py:28:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LINTING",
+    "message": "app.py:39:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LINTING",
+    "message": "app.py:7:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LINTING",
+    "message": "app.py:12:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LINTING",
+    "message": "app.py:28:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LINTING",
+    "message": "app.py:39:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LINTING",
+    "message": "app.py:7:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LINTING",
+    "message": "app.py:12:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LINTING",
+    "message": "app.py:28:1: E302 expected 2 blank lines, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LINTING",
+    "message": "app.py:39:1: E305 expected 2 blank lines after class or function definition, found 1",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "TYPE_ERROR",
+    "message": "app.py:5: error: Need type annotation for \"inventory\" (hint: \"inventory: dict[<type>, <type>] = ...\")  [var-annotated]",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "Location: .\\app.py:40:4",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:1:0: C0114: Missing module docstring (missing-module-docstring)",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:8:0: C0116: Missing function or method docstring (missing-function-docstring)",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:13:0: C0116: Missing function or method docstring (missing-function-docstring)",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "TYPE_ERROR",
+    "message": "app.py:5: error: Need type annotation for \"inventory\" (hint: \"inventory: dict[<type>, <type>] = ...\")  [var-annotated]",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "Location: .\\app.py:40:4",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:1:0: C0114: Missing module docstring (missing-module-docstring)",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:8:0: C0116: Missing function or method docstring (missing-function-docstring)",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:13:0: C0116: Missing function or method docstring (missing-function-docstring)",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "TYPE_ERROR",
+    "message": "app.py:13: error: Need type annotation for \"global_state\"  [var-annotated]",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:1:0: C0114: Missing module docstring (missing-module-docstring)",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:27:0: C0116: Missing function or method docstring (missing-function-docstring)",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:33:0: C0116: Missing function or method docstring (missing-function-docstring)",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:51:0: C0116: Missing function or method docstring (missing-function-docstring)",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "TYPE_ERROR",
+    "message": "app.py:13: error: Need type annotation for \"global_state\"  [var-annotated]",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:1:0: C0114: Missing module docstring (missing-module-docstring)",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:27:0: C0116: Missing function or method docstring (missing-function-docstring)",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:33:0: C0116: Missing function or method docstring (missing-function-docstring)",
+    "fix": "",
+    "status": "Failed"
+  },
+  {
+    "type": "LOGIC",
+    "message": "app.py:51:0: C0116: Missing function or method docstring (missing-function-docstring)",
+    "fix": "",
+    "status": "Failed"
+  }
+]

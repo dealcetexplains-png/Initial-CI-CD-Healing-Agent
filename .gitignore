@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.pnp
+.pnp.js
+venv/
+.venv/
+env/
+
+# Environment & secrets
+.env
+.env.local
+.env.*.local
+apis.txt
+
+# Build outputs
+frontend/dist/
+backend/.pytest_cache/
+*.egg-info/
+
+# Agent workspace (cloned repos)
+agent/workspace/
+repos/
+
+# IDE & OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*

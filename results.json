@@ -1,0 +1,300 @@
+{
+  "repo_url": "https://github.com/dealcetexplains-png/buggy-website.git",
+  "team_name": "kyu nahi ho rahi padhai",
+  "team_leader": "Dornal Shivprasad",
+  "branch_name": "KYU_NAHI_HO_RAHI_PADHAI_DORNAL_SHIVPRASAD_AI_Fix",
+  "total_failures_detected": 11,
+  "total_fixes_applied": 6,
+  "ci_status": "PASSED",
+  "iterations_used": 5,
+  "retry_limit": 5,
+  "fixes": [
+    {
+      "file": "ultimate_buggy_file.py",
+      "bug_type": "SYNTAX",
+      "line": 14,
+      "all_lines": [
+        14,
+        18
+      ],
+      "commit_message": "[AI-AGENT] Error detected",
+      "status": "Pending",
+      "providers_used": [],
+      "raw_responses": {},
+      "debug": {
+        "strategy": "detected",
+        "message": "ultimate_buggy_file.py:14:18: E999 SyntaxError: expected ':'"
+      },
+      "error_message": "ultimate_buggy_file.py:14:18: E999 SyntaxError: expected ':'"
+    },
+    {
+      "file": "ultimate_buggy_file.py",
+      "bug_type": "SYNTAX",
+      "line": 14,
+      "all_lines": [
+        14,
+        18
+      ],
+      "commit_message": "[AI-AGENT] SYNTAX error in ultimate_buggy_file.py line 14 \u2192 Fix: add the colon at the correct position",
+      "status": "Fixed",
+      "providers_used": [
+        "Groq"
+      ],
+      "raw_responses": {
+        "Gemini(gemini-1.5-pro)": "ERROR: NotFound('models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.')",
+        "OpenRouter(anthropic/claude-3.5-sonnet)": "ERROR: APIStatusError(\"Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 8192 tokens, but can only afford 1217. To increase, visit h...",
+        "Groq(llama-3.3-70b-versatile)": "<fixed_code>\n# ============================================================\n#  ULTIMATE BUGGY FILE - FOR CI/CD TESTING PURPOSES ONLY\n#  Contains Python + JavaScript + TypeScript code mixed\n# =========...",
+        "OpenAI(gpt-4o)": "ERROR: RateLimitError(\"Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://...",
+        "Ollama(codellama)": "ERROR: APIConnectionError('Connection error.')"
+      },
+      "debug": {
+        "strategy": "batch_fix",
+        "ast_error": null,
+        "content_len": 4102,
+        "exception": null,
+        "raw": {
+          "Gemini(gemini-1.5-pro)": "199ch:ERROR: NotFound('models/gemini-1.5-pro is not found for API \u2026",
+          "OpenRouter(anthropic/claude-3.5-sonnet)": "369ch:ERROR: APIStatusError(\"Error code: 402 - {'error': {'message\u2026",
+          "Groq(llama-3.3-70b-versatile)": "4633ch:<fixed_code>\n# =============================================\u2026",
+          "OpenAI(gpt-4o)": "335ch:ERROR: RateLimitError(\"Error code: 429 - {'error': {'message\u2026",
+          "Ollama(codellama)": "46ch"
+        },
+        "error_lines": [
+          14
+        ]
+      },
+      "errors_count": 1,
+      "error_message": "ultimate_buggy_file.py:14:18: E999 SyntaxError: expected ':'"
+    },
+    {
+      "file": "ultimate_buggy_file.py",
+      "bug_type": "SYNTAX",
+      "line": 14,
+      "all_lines": [
+        14,
+        18
+      ],
+      "commit_message": "[AI-AGENT] SYNTAX error in ultimate_buggy_file.py line 14 \u2192 Fix: add the colon at the correct position",
+      "status": "Fixed",
+      "providers_used": [
+        "Groq"
+      ],
+      "raw_responses": {
+        "Gemini(gemini-1.5-pro)": "ERROR: NotFound('models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.')",
+        "OpenRouter(anthropic/claude-3.5-sonnet)": "ERROR: APIStatusError(\"Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 8192 tokens, but can only afford 1217. To increase, visit h...",
+        "Groq(llama-3.3-70b-versatile)": "<fixed_code>\n# ============================================================\n#  ULTIMATE BUGGY FILE - FOR CI/CD TESTING PURPOSES ONLY\n#  Contains Python + JavaScript + TypeScript code mixed\n# =========...",
+        "OpenAI(gpt-4o)": "ERROR: RateLimitError(\"Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://...",
+        "Ollama(codellama)": "ERROR: APIConnectionError('Connection error.')"
+      },
+      "debug": {
+        "strategy": "batch_fix",
+        "ast_error": null,
+        "content_len": 4097,
+        "exception": null,
+        "raw": {
+          "Gemini(gemini-1.5-pro)": "199ch:ERROR: NotFound('models/gemini-1.5-pro is not found for API \u2026",
+          "OpenRouter(anthropic/claude-3.5-sonnet)": "369ch:ERROR: APIStatusError(\"Error code: 402 - {'error': {'message\u2026",
+          "Groq(llama-3.3-70b-versatile)": "4628ch:<fixed_code>\n# =============================================\u2026",
+          "OpenAI(gpt-4o)": "335ch:ERROR: RateLimitError(\"Error code: 429 - {'error': {'message\u2026",
+          "Ollama(codellama)": "46ch"
+        },
+        "error_lines": [
+          14
+        ]
+      },
+      "errors_count": 1,
+      "error_message": "ultimate_buggy_file.py:14:18: E999 SyntaxError: expected ':'"
+    },
+    {
+      "file": "ultimate_buggy_file.py",
+      "bug_type": "SYNTAX",
+      "line": 14,
+      "all_lines": [
+        14,
+        18
+      ],
+      "commit_message": "[AI-AGENT] SYNTAX error in ultimate_buggy_file.py line 14 \u2192 Fix: add the colon at the correct position",
+      "status": "Fixed",
+      "providers_used": [
+        "Groq"
+      ],
+      "raw_responses": {
+        "Gemini(gemini-1.5-pro)": "ERROR: NotFound('models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.')",
+        "OpenRouter(anthropic/claude-3.5-sonnet)": "ERROR: APIStatusError(\"Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 8192 tokens, but can only afford 1217. To increase, visit h...",
+        "Groq(llama-3.3-70b-versatile)": "<fixed_code>\n# ============================================================\n#  ULTIMATE BUGGY FILE - FOR CI/CD TESTING PURPOSES ONLY\n#  Contains Python + JavaScript + TypeScript code mixed\n# =========...",
+        "OpenAI(gpt-4o)": "ERROR: RateLimitError(\"Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://...",
+        "Ollama(codellama)": "ERROR: APIConnectionError('Connection error.')"
+      },
+      "debug": {
+        "strategy": "batch_fix",
+        "ast_error": null,
+        "content_len": 4003,
+        "exception": null,
+        "raw": {
+          "Gemini(gemini-1.5-pro)": "199ch:ERROR: NotFound('models/gemini-1.5-pro is not found for API \u2026",
+          "OpenRouter(anthropic/claude-3.5-sonnet)": "369ch:ERROR: APIStatusError(\"Error code: 402 - {'error': {'message\u2026",
+          "Groq(llama-3.3-70b-versatile)": "4534ch:<fixed_code>\n# =============================================\u2026",
+          "OpenAI(gpt-4o)": "335ch:ERROR: RateLimitError(\"Error code: 429 - {'error': {'message\u2026",
+          "Ollama(codellama)": "46ch"
+        },
+        "error_lines": [
+          14
+        ]
+      },
+      "errors_count": 1,
+      "error_message": "ultimate_buggy_file.py:14:18: E999 SyntaxError: expected ':'"
+    },
+    {
+      "file": "ultimate_buggy_file.py",
+      "bug_type": "SYNTAX",
+      "line": 14,
+      "all_lines": [
+        14,
+        18
+      ],
+      "commit_message": "[AI-AGENT] SYNTAX error in ultimate_buggy_file.py line 14 \u2192 Fix: resolved",
+      "status": "Fixed",
+      "providers_used": [
+        "OpenRouter",
+        "OpenAI",
+        "Gemini",
+        "Groq",
+        "Ollama"
+      ],
+      "raw_responses": {},
+      "debug": {
+        "strategy": "batch_fix",
+        "ast_error": null,
+        "content_len": 0,
+        "exception": null,
+        "raw": {
+          "Gemini(gemini-1.5-pro)": "199ch:ERROR: NotFound('models/gemini-1.5-pro is not found for API \u2026",
+          "Groq(llama-3.3-70b-versatile)": "434ch:ERROR: RateLimitError(\"Error code: 429 - {'error': {'message\u2026",
+          "OpenRouter(anthropic/claude-3.5-sonnet)": "369ch:ERROR: APIStatusError(\"Error code: 402 - {'error': {'message\u2026",
+          "OpenAI(gpt-4o)": "335ch:ERROR: RateLimitError(\"Error code: 429 - {'error': {'message\u2026",
+          "Ollama(codellama)": "46ch"
+        },
+        "error_lines": [
+          14
+        ]
+      },
+      "errors_count": 1,
+      "error_message": "ultimate_buggy_file.py:14:18: E999 SyntaxError: expected ':'"
+    },
+    {
+      "file": "ultimate_buggy_file.py",
+      "bug_type": "SYNTAX",
+      "line": 14,
+      "all_lines": [
+        14,
+        18
+      ],
+      "commit_message": "[AI-AGENT] SYNTAX error in ultimate_buggy_file.py line 14 \u2192 Fix: resolved",
+      "status": "Fixed",
+      "providers_used": [
+        "OpenRouter",
+        "OpenAI",
+        "Gemini",
+        "Groq",
+        "Ollama"
+      ],
+      "raw_responses": {},
+      "debug": {
+        "strategy": "batch_fix",
+        "ast_error": null,
+        "content_len": 0,
+        "exception": null,
+        "raw": {
+          "Gemini(gemini-1.5-pro)": "199ch:ERROR: NotFound('models/gemini-1.5-pro is not found for API \u2026",
+          "Groq(llama-3.3-70b-versatile)": "434ch:ERROR: RateLimitError(\"Error code: 429 - {'error': {'message\u2026",
+          "OpenRouter(anthropic/claude-3.5-sonnet)": "369ch:ERROR: APIStatusError(\"Error code: 402 - {'error': {'message\u2026",
+          "OpenAI(gpt-4o)": "335ch:ERROR: RateLimitError(\"Error code: 429 - {'error': {'message\u2026",
+          "Ollama(codellama)": "46ch"
+        },
+        "error_lines": [
+          14
+        ]
+      },
+      "errors_count": 1,
+      "error_message": "ultimate_buggy_file.py:14:18: E999 SyntaxError: expected ':'"
+    },
+    {
+      "file": "ultimate_buggy_file.py",
+      "bug_type": "SYNTAX",
+      "line": 14,
+      "all_lines": [
+        14,
+        18
+      ],
+      "commit_message": "[AI-AGENT] SYNTAX error in ultimate_buggy_file.py line 14 \u2192 Fix: add the colon at the correct position",
+      "status": "Fixed",
+      "providers_used": [
+        "Ollama"
+      ],
+      "raw_responses": {},
+      "debug": {
+        "strategy": "auto_fixed"
+      },
+      "errors_count": 1,
+      "error_message": "ultimate_buggy_file.py:14:18: E999 SyntaxError: expected ':'"
+    }
+  ],
+  "timeline": [
+    {
+      "iteration": 1,
+      "status": "PASSED",
+      "failures_count": 1,
+      "timestamp": "2026-02-20T00:17:10.740389Z",
+      "rollback": true,
+      "reason": "patch_introduced_regression"
+    },
+    {
+      "iteration": 2,
+      "status": "FAILED",
+      "failures_count": 1,
+      "timestamp": "2026-02-20T00:17:35.181256Z",
+      "rollback": true,
+      "reason": "patch_introduced_regression"
+    },
+    {
+      "iteration": 3,
+      "status": "PASSED",
+      "failures_count": 1,
+      "timestamp": "2026-02-20T00:17:59.009401Z",
+      "rollback": true,
+      "reason": "patch_introduced_regression"
+    },
+    {
+      "iteration": 4,
+      "status": "PASSED",
+      "failures_count": 1,
+      "timestamp": "2026-02-20T00:18:21.662753Z"
+    },
+    {
+      "iteration": 5,
+      "status": "PASSED",
+      "failures_count": 1,
+      "timestamp": "2026-02-20T00:18:43.145600Z"
+    }
+  ],
+  "regressions_prevented": 3,
+  "score": {
+    "base": 100,
+    "speed_bonus": 10,
+    "efficiency_penalty": 0,
+    "total": 110
+  },
+  "github_ci": null,
+  "available_tools": {
+    "python": [
+      "autopep8",
+      "black",
+      "pylint",
+      "mypy",
+      "bandit"
+    ],
+    "javascript": [],
+    "ruby": []
+  },
+  "total_time_seconds": 119
+}

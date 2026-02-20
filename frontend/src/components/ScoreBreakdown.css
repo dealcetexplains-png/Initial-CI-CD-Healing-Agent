@@ -1,0 +1,59 @@
+.score-breakdown h2 {
+  margin: 0 0 1rem 0;
+  font-size: 1.1rem;
+}
+
+.score-items {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.score-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.95rem;
+}
+
+.score-item .num {
+  font-family: var(--font-mono);
+}
+
+.score-item .num.positive {
+  color: var(--success);
+}
+
+.score-item .num.negative {
+  color: var(--error);
+}
+
+.score-total {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border-top: 1px solid var(--border);
+}
+
+.total-num {
+  font-size: 1.5rem;
+  color: var(--accent);
+}
+
+.progress-bar {
+  height: 8px;
+  background: var(--bg-input);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--accent), var(--success));
+  border-radius: 4px;
+  transition: width 0.4s ease;
+}

@@ -1,0 +1,64 @@
+.timeline h2 {
+  margin: 0 0 1rem 0;
+  font-size: 1.1rem;
+}
+
+.timeline .empty {
+  color: var(--text-muted);
+  margin: 0;
+}
+
+.timeline-header {
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+.timeline-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.timeline-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.75rem;
+  background: var(--bg-input);
+  border-radius: 6px;
+  border: 1px solid var(--border);
+}
+
+.timeline-marker .badge {
+  padding: 0.25rem 0.6rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.timeline-marker .badge.passed {
+  background: rgba(63, 185, 80, 0.2);
+  color: var(--success);
+}
+
+.timeline-marker .badge.failed {
+  background: rgba(248, 81, 73, 0.2);
+  color: var(--error);
+}
+
+.timeline-content {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.timeline-content .muted {
+  color: var(--text-muted);
+}
+
+.timeline-content .ts {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}

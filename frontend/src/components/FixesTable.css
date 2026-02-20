@@ -1,0 +1,89 @@
+.fixes-table h2 {
+  margin: 0 0 1rem 0;
+  font-size: 1.1rem;
+}
+
+.fixes-table .empty {
+  color: var(--text-muted);
+  margin: 0;
+}
+
+.table-wrap {
+  overflow-x: auto;
+}
+
+.fixes-table table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+.fixes-table th {
+  text-align: left;
+  padding: 0.6rem 0.75rem;
+  background: var(--bg-input);
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.fixes-table td {
+  padding: 0.6rem 0.75rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.fixes-table .mono {
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+}
+
+.fixes-table .commit-msg {
+  max-width: 280px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.bug-type {
+  display: inline-block;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+}
+
+.bug-type.linting { background: rgba(88, 166, 255, 0.2); }
+.bug-type.syntax { background: rgba(210, 153, 34, 0.2); }
+.bug-type.logic { background: rgba(88, 166, 255, 0.2); }
+.bug-type.type_error { background: rgba(248, 81, 73, 0.2); }
+.bug-type.import { background: rgba(63, 185, 80, 0.2); }
+.bug-type.indentation { background: rgba(210, 153, 34, 0.2); }
+
+.status-dot.fixed {
+  color: var(--success);
+}
+
+.status-dot.failed {
+  color: var(--error);
+}
+
+.line-cell {
+  font-size: 0.85rem;
+  font-family: var(--font-mono);
+  white-space: nowrap;
+  min-width: 120px;
+}
+
+.error-cell {
+  font-size: 0.85rem;
+  max-width: 320px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.debug-cell {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  max-width: 180px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
